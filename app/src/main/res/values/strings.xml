@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">m5_Quiz_resources.homework05</string>
+    <string name="image_welcome">Приветствие</string>
+    <string name="button_welcome">Начать Квиз!</string>
+</resources>
